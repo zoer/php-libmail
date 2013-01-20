@@ -1,0 +1,15 @@
+{
+    "name": "zoer/php-libmail",
+    "description": "PHP library developed by webi.ru",
+    "version": "1.6.0",
+    "homepage": "http://webi.ru/webi_files/php_libmail.html",
+    "authors": [
+        {
+            "name": "webi.ru",
+            "email": "adm@webi.ru"
+        }
+    ],
+    "autoload":{
+	    "classmap": ["libmail.php"]
+    }
+}
